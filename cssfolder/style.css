@@ -1,0 +1,14 @@
+
+.Mama-cuba-detail {
+  font-weight:normal;
+  padding-top: 10px;
+  margin-left: 440px;
+  width: 250px;
+}
+.beverage1 {
+ /* transform: translateY(-5rem);*/
+ transform: translate(10rem,0rem);
+}
+.desert1 {
+  transform: translate(-10rem,15rem);
+}
